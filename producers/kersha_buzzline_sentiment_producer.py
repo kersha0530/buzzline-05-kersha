@@ -1,82 +1,72 @@
-import sqlite3
+import sys
+import pathlib
+
+sys.path.append(str(pathlib.Path(__file__).parent.parent))  # Add project root to Python path
+
+
+import json
 import random
 import time
 from datetime import datetime
+from dotenv import load_dotenv
+from utils.utils_logger import logger
 
-# Database path
-DB_PATH = "C:/44608 projects spring 2025/buzzline-05-kersha/buzzline05_kersha.sqlite"
+# Load environment variables
+load_dotenv()
 
-# Define categories, messages, and keyword sentiment mapping
-CATEGORIES = {
-    "tech": ["Python is amazing!", "AI is revolutionizing everything!"],
-    "food": ["This recipe is delicious!", "Best pasta ever!"],
-    "humor": ["That meme cracked me up!", "Hilarious joke of the day!"],
-    "travel": ["Just visited an incredible place!", "Traveling is life-changing!"],
-}
-KEYWORD_SENTIMENT = {
-    "amazing": 0.9,
-    "delicious": 0.8,
-    "hilarious": 0.7,
-    "revolutionizing": 0.6,
-    "best": 0.5,
-    "cracked": 0.4,
-    "life-changing": 0.3,
-}
-AUTHORS = ["Alice", "Bob", "Charlie", "Eve", "Kersha"]
+# Define file path
+PROJECT_ROOT = pathlib.Path(__file__).parent.parent
+DATA_FILE = PROJECT_ROOT.joinpath("data", "sentiment_live.json")
 
-# Ensure table exists
-def setup_database():
-    conn = sqlite3.connect(DB_PATH)
-    cursor = conn.cursor()
-    cursor.execute("""
-    CREATE TABLE IF NOT EXISTS buzzline_messages (
-        id INTEGER PRIMARY KEY AUTOINCREMENT,
-        message TEXT,
-        author TEXT,
-        timestamp TEXT,
-        category TEXT,
-        sentiment REAL,
-        keyword_mentioned TEXT,
-        message_length INTEGER,
-        hour_of_day INTEGER
-    );
-    """)
-    conn.commit()
-    conn.close()
+MESSAGES = [
+    "I love coding!",
+    "Python makes data fun!",
+    "Kafka is frustrating sometimes.",
+    "Machine learning is exciting!",
+    "I just saw a cool visualization!",
+]
 
-# Generate sentiment based on keywords
+AUTHORS = ["Kersha", "Alice", "Bob", "Charlie", "Eve"]
+
 def assess_sentiment(message):
-    for word, score in KEYWORD_SENTIMENT.items():
-        if word in message.lower():
-            return round(score, 2)
-    return round(random.uniform(-1, 1), 2)  # Fallback to random if no keyword matches
+    """Generate a sentiment score between -1 and 1."""
+    return round(random.uniform(-1, 1), 2)
 
-# Generate messages
-def generate_messages():
-    conn = sqlite3.connect(DB_PATH)
-    cursor = conn.cursor()
+def generate_sentiment_messages():
+    """Continuously generate new sentiment messages and update the JSON file."""
     while True:
-        category = random.choice(list(CATEGORIES.keys()))
-        message = random.choice(CATEGORIES[category])
+        message = random.choice(MESSAGES)
         author = random.choice(AUTHORS)
-        sentiment = assess_sentiment(message)
-        timestamp = datetime.utcnow().strftime("%Y-%m-%d %H:%M:%S")
-        message_length = len(message)
-        hour_of_day = datetime.utcnow().hour
-        
-        # Identify keyword mentioned
-        keyword_mentioned = next((word for word in KEYWORD_SENTIMENT if word in message.lower()), None)
+        timestamp = datetime.utcnow().isoformat()
+        sentiment_score = assess_sentiment(message)
 
-        cursor.execute("""
-        INSERT INTO buzzline_messages (message, author, timestamp, category, sentiment, keyword_mentioned, message_length, hour_of_day)
-        VALUES (?, ?, ?, ?, ?, ?, ?, ?);
-        """, (message, author, timestamp, category, sentiment, keyword_mentioned, message_length, hour_of_day))
-        
-        conn.commit()
-        print(f"📝 Inserted: {message} | Category: {category} | Sentiment: {sentiment} | Keyword: {keyword_mentioned}")
+        new_entry = {
+            "timestamp": timestamp,
+            "message": message,
+            "author": author,
+            "sentiment": sentiment_score
+        }
+
+        logger.info(f"Generated Sentiment Data: {new_entry}")
+
+        # Read existing data
+        existing_data = []
+        if DATA_FILE.exists():
+            try:
+                with open(DATA_FILE, "r") as file:
+                    existing_data = json.load(file)
+            except json.JSONDecodeError:
+                logger.error("JSON file corrupted. Starting fresh.")
+
+        # Append new message and write to file
+        existing_data.append(new_entry)
+        with open(DATA_FILE, "w") as file:  # ✅ Correct indentation
+            json.dump(existing_data, file, indent=4)
+
         time.sleep(2)  # Adjust interval as needed
 
 if __name__ == "__main__":
-    setup_database()
-    generate_messages()
+    generate_sentiment_messages()
+
+
 

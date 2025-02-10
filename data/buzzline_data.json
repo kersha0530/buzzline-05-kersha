@@ -1,3 +1,4 @@
+[
 {"message": "I just saw recipe! It was amazing.", "author": "Eve", "timestamp": "2025-02-07 13:13:39", "category": "food", "sentiment": 0.95, "keyword_mentioned": "recipe", "message_length": 34}
 {"message": "I just saw a story! It was boring.", "author": "Kersha", "timestamp": "2025-02-07 13:13:40", "category": "other", "sentiment": 0.27, "keyword_mentioned": "other", "message_length": 34}
 {"message": "I just tried travel! It was boring.", "author": "Bob", "timestamp": "2025-02-07 13:13:41", "category": "travel", "sentiment": 0.85, "keyword_mentioned": "travel", "message_length": 35}
@@ -1351,3 +1352,4 @@
 {"message": "I just tried travel! It was funny.", "author": "Alice", "timestamp": "2025-02-07 13:47:46", "category": "travel", "sentiment": 0.46, "keyword_mentioned": "travel", "message_length": 34}
 {"message": "I just shared game! It was weird.", "author": "Eve", "timestamp": "2025-02-07 13:47:47", "category": "gaming", "sentiment": 0.11, "keyword_mentioned": "game", "message_length": 33}
 {"message": "I just found game! It was amazing.", "author": "Kersha", "timestamp": "2025-02-07 13:47:48", "category": "gaming", "sentiment": 0.83, "keyword_mentioned": "game", "message_length": 34}
+]

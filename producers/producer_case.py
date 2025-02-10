@@ -22,11 +22,18 @@ Environment variables are in utils/utils_config module.
 #####################################
 
 # import from standard library
-import json
+import sys
 import os
+
+# Ensure Python can find the 'utils' directory
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+
+import utils.utils_config as config  # Now this should work
+
+
+import json
 import pathlib
 import random
-import sys
 import time
 from datetime import datetime
 

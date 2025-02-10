@@ -1,0 +1,3140 @@
+[
+    {
+        "timestamp": "2025-02-10T20:30:01.811554",
+        "message": "Python makes data fun!",
+        "author": "Charlie",
+        "sentiment": -0.82
+    },
+    {
+        "timestamp": "2025-02-10T20:30:03.813275",
+        "message": "Machine learning is exciting!",
+        "author": "Alice",
+        "sentiment": -0.95
+    },
+    {
+        "timestamp": "2025-02-10T20:30:05.817485",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Bob",
+        "sentiment": 0.4
+    },
+    {
+        "timestamp": "2025-02-10T20:30:07.821808",
+        "message": "I just saw a cool visualization!",
+        "author": "Kersha",
+        "sentiment": 0.71
+    },
+    {
+        "timestamp": "2025-02-10T20:30:09.824421",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Eve",
+        "sentiment": -0.65
+    },
+    {
+        "timestamp": "2025-02-10T20:30:11.828475",
+        "message": "I just saw a cool visualization!",
+        "author": "Alice",
+        "sentiment": 0.33
+    },
+    {
+        "timestamp": "2025-02-10T20:30:13.831164",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Kersha",
+        "sentiment": -0.97
+    },
+    {
+        "timestamp": "2025-02-10T20:30:15.836538",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Bob",
+        "sentiment": 0.64
+    },
+    {
+        "timestamp": "2025-02-10T20:30:17.841249",
+        "message": "Machine learning is exciting!",
+        "author": "Alice",
+        "sentiment": 0.63
+    },
+    {
+        "timestamp": "2025-02-10T20:30:19.846226",
+        "message": "I love coding!",
+        "author": "Bob",
+        "sentiment": -0.66
+    },
+    {
+        "timestamp": "2025-02-10T20:30:21.854105",
+        "message": "Python makes data fun!",
+        "author": "Charlie",
+        "sentiment": 0.77
+    },
+    {
+        "timestamp": "2025-02-10T20:30:23.859092",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Kersha",
+        "sentiment": -0.37
+    },
+    {
+        "timestamp": "2025-02-10T20:30:25.862282",
+        "message": "I love coding!",
+        "author": "Charlie",
+        "sentiment": -0.45
+    },
+    {
+        "timestamp": "2025-02-10T20:30:27.865892",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Charlie",
+        "sentiment": -0.09
+    },
+    {
+        "timestamp": "2025-02-10T20:30:29.871158",
+        "message": "Python makes data fun!",
+        "author": "Alice",
+        "sentiment": 0.32
+    },
+    {
+        "timestamp": "2025-02-10T20:30:31.873649",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Alice",
+        "sentiment": 0.97
+    },
+    {
+        "timestamp": "2025-02-10T20:30:33.879247",
+        "message": "I just saw a cool visualization!",
+        "author": "Charlie",
+        "sentiment": -0.44
+    },
+    {
+        "timestamp": "2025-02-10T20:30:35.883166",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Alice",
+        "sentiment": -0.24
+    },
+    {
+        "timestamp": "2025-02-10T20:30:37.885226",
+        "message": "I just saw a cool visualization!",
+        "author": "Bob",
+        "sentiment": -0.83
+    },
+    {
+        "timestamp": "2025-02-10T20:30:39.887442",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Eve",
+        "sentiment": -0.52
+    },
+    {
+        "timestamp": "2025-02-10T20:30:41.891797",
+        "message": "I love coding!",
+        "author": "Charlie",
+        "sentiment": 0.2
+    },
+    {
+        "timestamp": "2025-02-10T20:30:43.896840",
+        "message": "I just saw a cool visualization!",
+        "author": "Eve",
+        "sentiment": 0.79
+    },
+    {
+        "timestamp": "2025-02-10T20:30:45.899471",
+        "message": "I love coding!",
+        "author": "Alice",
+        "sentiment": 0.86
+    },
+    {
+        "timestamp": "2025-02-10T20:30:47.905027",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Charlie",
+        "sentiment": -0.68
+    },
+    {
+        "timestamp": "2025-02-10T20:30:49.909990",
+        "message": "Machine learning is exciting!",
+        "author": "Alice",
+        "sentiment": 0.38
+    },
+    {
+        "timestamp": "2025-02-10T20:30:51.912830",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Alice",
+        "sentiment": -0.35
+    },
+    {
+        "timestamp": "2025-02-10T20:30:53.916498",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Alice",
+        "sentiment": -0.89
+    },
+    {
+        "timestamp": "2025-02-10T20:30:55.919409",
+        "message": "I love coding!",
+        "author": "Kersha",
+        "sentiment": -0.19
+    },
+    {
+        "timestamp": "2025-02-10T20:30:57.924186",
+        "message": "I love coding!",
+        "author": "Alice",
+        "sentiment": -0.64
+    },
+    {
+        "timestamp": "2025-02-10T20:30:59.927473",
+        "message": "I just saw a cool visualization!",
+        "author": "Kersha",
+        "sentiment": -0.91
+    },
+    {
+        "timestamp": "2025-02-10T20:31:01.931118",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Kersha",
+        "sentiment": -0.41
+    },
+    {
+        "timestamp": "2025-02-10T20:31:03.933778",
+        "message": "Machine learning is exciting!",
+        "author": "Eve",
+        "sentiment": -0.65
+    },
+    {
+        "timestamp": "2025-02-10T20:31:05.937526",
+        "message": "I love coding!",
+        "author": "Kersha",
+        "sentiment": 0.42
+    },
+    {
+        "timestamp": "2025-02-10T20:31:07.942233",
+        "message": "I just saw a cool visualization!",
+        "author": "Charlie",
+        "sentiment": -0.54
+    },
+    {
+        "timestamp": "2025-02-10T20:31:09.947306",
+        "message": "I love coding!",
+        "author": "Charlie",
+        "sentiment": 0.55
+    },
+    {
+        "timestamp": "2025-02-10T20:31:11.951974",
+        "message": "Machine learning is exciting!",
+        "author": "Bob",
+        "sentiment": -0.21
+    },
+    {
+        "timestamp": "2025-02-10T20:31:13.961476",
+        "message": "Python makes data fun!",
+        "author": "Alice",
+        "sentiment": -0.48
+    },
+    {
+        "timestamp": "2025-02-10T20:31:15.983393",
+        "message": "Machine learning is exciting!",
+        "author": "Kersha",
+        "sentiment": -0.96
+    },
+    {
+        "timestamp": "2025-02-10T20:31:17.988458",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Eve",
+        "sentiment": 0.81
+    },
+    {
+        "timestamp": "2025-02-10T20:31:19.993972",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Kersha",
+        "sentiment": -0.31
+    },
+    {
+        "timestamp": "2025-02-10T20:31:22.002121",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Alice",
+        "sentiment": 0.34
+    },
+    {
+        "timestamp": "2025-02-10T20:31:24.014115",
+        "message": "I love coding!",
+        "author": "Bob",
+        "sentiment": -0.06
+    },
+    {
+        "timestamp": "2025-02-10T20:31:26.021916",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Kersha",
+        "sentiment": -0.55
+    },
+    {
+        "timestamp": "2025-02-10T20:31:28.040889",
+        "message": "I love coding!",
+        "author": "Bob",
+        "sentiment": 0.34
+    },
+    {
+        "timestamp": "2025-02-10T20:31:30.045161",
+        "message": "I just saw a cool visualization!",
+        "author": "Bob",
+        "sentiment": 0.55
+    },
+    {
+        "timestamp": "2025-02-10T20:31:32.052430",
+        "message": "Python makes data fun!",
+        "author": "Eve",
+        "sentiment": 0.12
+    },
+    {
+        "timestamp": "2025-02-10T20:31:34.056481",
+        "message": "Python makes data fun!",
+        "author": "Charlie",
+        "sentiment": -0.67
+    },
+    {
+        "timestamp": "2025-02-10T20:31:36.060583",
+        "message": "I just saw a cool visualization!",
+        "author": "Eve",
+        "sentiment": -0.45
+    },
+    {
+        "timestamp": "2025-02-10T20:31:38.068186",
+        "message": "I just saw a cool visualization!",
+        "author": "Kersha",
+        "sentiment": -0.9
+    },
+    {
+        "timestamp": "2025-02-10T20:31:40.072460",
+        "message": "I just saw a cool visualization!",
+        "author": "Charlie",
+        "sentiment": -0.84
+    },
+    {
+        "timestamp": "2025-02-10T20:31:42.077916",
+        "message": "Machine learning is exciting!",
+        "author": "Bob",
+        "sentiment": 0.07
+    },
+    {
+        "timestamp": "2025-02-10T20:31:44.082409",
+        "message": "I love coding!",
+        "author": "Bob",
+        "sentiment": 0.68
+    },
+    {
+        "timestamp": "2025-02-10T20:31:46.087150",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Charlie",
+        "sentiment": 0.28
+    },
+    {
+        "timestamp": "2025-02-10T20:31:48.097499",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Kersha",
+        "sentiment": 0.61
+    },
+    {
+        "timestamp": "2025-02-10T20:31:50.101027",
+        "message": "I love coding!",
+        "author": "Eve",
+        "sentiment": 0.89
+    },
+    {
+        "timestamp": "2025-02-10T20:31:52.115869",
+        "message": "I love coding!",
+        "author": "Charlie",
+        "sentiment": 0.01
+    },
+    {
+        "timestamp": "2025-02-10T20:31:54.121281",
+        "message": "I just saw a cool visualization!",
+        "author": "Kersha",
+        "sentiment": -0.4
+    },
+    {
+        "timestamp": "2025-02-10T20:31:56.126188",
+        "message": "I love coding!",
+        "author": "Alice",
+        "sentiment": -0.36
+    },
+    {
+        "timestamp": "2025-02-10T20:31:58.133153",
+        "message": "I just saw a cool visualization!",
+        "author": "Kersha",
+        "sentiment": 0.27
+    },
+    {
+        "timestamp": "2025-02-10T20:32:00.153682",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Bob",
+        "sentiment": -0.51
+    },
+    {
+        "timestamp": "2025-02-10T20:32:02.157597",
+        "message": "Python makes data fun!",
+        "author": "Bob",
+        "sentiment": 0.36
+    },
+    {
+        "timestamp": "2025-02-10T20:32:04.169343",
+        "message": "I just saw a cool visualization!",
+        "author": "Kersha",
+        "sentiment": 0.06
+    },
+    {
+        "timestamp": "2025-02-10T20:32:06.175859",
+        "message": "I just saw a cool visualization!",
+        "author": "Bob",
+        "sentiment": 0.02
+    },
+    {
+        "timestamp": "2025-02-10T20:32:08.183932",
+        "message": "I love coding!",
+        "author": "Eve",
+        "sentiment": 0.6
+    },
+    {
+        "timestamp": "2025-02-10T20:32:10.187816",
+        "message": "I just saw a cool visualization!",
+        "author": "Alice",
+        "sentiment": -0.56
+    },
+    {
+        "timestamp": "2025-02-10T20:32:12.193774",
+        "message": "I just saw a cool visualization!",
+        "author": "Alice",
+        "sentiment": -0.98
+    },
+    {
+        "timestamp": "2025-02-10T20:32:14.196270",
+        "message": "I love coding!",
+        "author": "Kersha",
+        "sentiment": -0.98
+    },
+    {
+        "timestamp": "2025-02-10T20:32:16.199031",
+        "message": "Machine learning is exciting!",
+        "author": "Kersha",
+        "sentiment": -0.36
+    },
+    {
+        "timestamp": "2025-02-10T20:32:18.202966",
+        "message": "Python makes data fun!",
+        "author": "Kersha",
+        "sentiment": -0.83
+    },
+    {
+        "timestamp": "2025-02-10T20:32:20.208047",
+        "message": "Python makes data fun!",
+        "author": "Alice",
+        "sentiment": 0.17
+    },
+    {
+        "timestamp": "2025-02-10T20:32:22.211692",
+        "message": "Python makes data fun!",
+        "author": "Eve",
+        "sentiment": 0.81
+    },
+    {
+        "timestamp": "2025-02-10T20:32:24.215357",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Bob",
+        "sentiment": 0.86
+    },
+    {
+        "timestamp": "2025-02-10T20:32:26.218622",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Alice",
+        "sentiment": -0.84
+    },
+    {
+        "timestamp": "2025-02-10T20:32:28.221383",
+        "message": "Machine learning is exciting!",
+        "author": "Bob",
+        "sentiment": -0.62
+    },
+    {
+        "timestamp": "2025-02-10T20:32:30.224901",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Kersha",
+        "sentiment": -0.57
+    },
+    {
+        "timestamp": "2025-02-10T20:32:32.231092",
+        "message": "Machine learning is exciting!",
+        "author": "Alice",
+        "sentiment": -0.03
+    },
+    {
+        "timestamp": "2025-02-10T20:32:34.234897",
+        "message": "I love coding!",
+        "author": "Charlie",
+        "sentiment": 0.45
+    },
+    {
+        "timestamp": "2025-02-10T20:32:36.239614",
+        "message": "Python makes data fun!",
+        "author": "Alice",
+        "sentiment": 0.79
+    },
+    {
+        "timestamp": "2025-02-10T20:32:38.245971",
+        "message": "I just saw a cool visualization!",
+        "author": "Charlie",
+        "sentiment": 0.01
+    },
+    {
+        "timestamp": "2025-02-10T20:32:40.249737",
+        "message": "Python makes data fun!",
+        "author": "Charlie",
+        "sentiment": 0.9
+    },
+    {
+        "timestamp": "2025-02-10T20:32:42.254100",
+        "message": "Machine learning is exciting!",
+        "author": "Eve",
+        "sentiment": -0.42
+    },
+    {
+        "timestamp": "2025-02-10T20:32:44.257961",
+        "message": "Machine learning is exciting!",
+        "author": "Alice",
+        "sentiment": 0.73
+    },
+    {
+        "timestamp": "2025-02-10T20:32:46.263934",
+        "message": "I just saw a cool visualization!",
+        "author": "Eve",
+        "sentiment": -0.17
+    },
+    {
+        "timestamp": "2025-02-10T20:32:48.267471",
+        "message": "I love coding!",
+        "author": "Charlie",
+        "sentiment": 0.89
+    },
+    {
+        "timestamp": "2025-02-10T20:32:50.271030",
+        "message": "I just saw a cool visualization!",
+        "author": "Charlie",
+        "sentiment": 0.62
+    },
+    {
+        "timestamp": "2025-02-10T20:32:52.275619",
+        "message": "I just saw a cool visualization!",
+        "author": "Kersha",
+        "sentiment": 0.29
+    },
+    {
+        "timestamp": "2025-02-10T20:32:54.278910",
+        "message": "Machine learning is exciting!",
+        "author": "Eve",
+        "sentiment": -0.42
+    },
+    {
+        "timestamp": "2025-02-10T20:32:56.287175",
+        "message": "I love coding!",
+        "author": "Bob",
+        "sentiment": 0.29
+    },
+    {
+        "timestamp": "2025-02-10T20:32:58.293311",
+        "message": "I just saw a cool visualization!",
+        "author": "Eve",
+        "sentiment": 0.11
+    },
+    {
+        "timestamp": "2025-02-10T20:33:00.296854",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Charlie",
+        "sentiment": 0.75
+    },
+    {
+        "timestamp": "2025-02-10T20:33:02.299335",
+        "message": "Python makes data fun!",
+        "author": "Eve",
+        "sentiment": 0.3
+    },
+    {
+        "timestamp": "2025-02-10T20:33:04.303500",
+        "message": "Python makes data fun!",
+        "author": "Bob",
+        "sentiment": -0.51
+    },
+    {
+        "timestamp": "2025-02-10T20:33:06.306867",
+        "message": "I just saw a cool visualization!",
+        "author": "Eve",
+        "sentiment": 0.08
+    },
+    {
+        "timestamp": "2025-02-10T20:33:08.309218",
+        "message": "Machine learning is exciting!",
+        "author": "Alice",
+        "sentiment": -0.99
+    },
+    {
+        "timestamp": "2025-02-10T20:33:10.311749",
+        "message": "Machine learning is exciting!",
+        "author": "Kersha",
+        "sentiment": -0.64
+    },
+    {
+        "timestamp": "2025-02-10T20:33:12.316188",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Alice",
+        "sentiment": -0.22
+    },
+    {
+        "timestamp": "2025-02-10T20:33:14.324431",
+        "message": "I just saw a cool visualization!",
+        "author": "Eve",
+        "sentiment": -0.71
+    },
+    {
+        "timestamp": "2025-02-10T20:33:16.328443",
+        "message": "Machine learning is exciting!",
+        "author": "Charlie",
+        "sentiment": -0.34
+    },
+    {
+        "timestamp": "2025-02-10T20:33:18.336418",
+        "message": "Python makes data fun!",
+        "author": "Eve",
+        "sentiment": -0.26
+    },
+    {
+        "timestamp": "2025-02-10T20:33:20.340378",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Alice",
+        "sentiment": -0.36
+    },
+    {
+        "timestamp": "2025-02-10T20:33:22.343705",
+        "message": "I just saw a cool visualization!",
+        "author": "Kersha",
+        "sentiment": -0.39
+    },
+    {
+        "timestamp": "2025-02-10T20:33:24.350064",
+        "message": "I love coding!",
+        "author": "Eve",
+        "sentiment": -0.93
+    },
+    {
+        "timestamp": "2025-02-10T20:33:26.354456",
+        "message": "Python makes data fun!",
+        "author": "Charlie",
+        "sentiment": -0.72
+    },
+    {
+        "timestamp": "2025-02-10T20:33:28.357004",
+        "message": "Python makes data fun!",
+        "author": "Charlie",
+        "sentiment": 0.18
+    },
+    {
+        "timestamp": "2025-02-10T20:33:30.361044",
+        "message": "Python makes data fun!",
+        "author": "Eve",
+        "sentiment": -0.56
+    },
+    {
+        "timestamp": "2025-02-10T20:33:32.369245",
+        "message": "Machine learning is exciting!",
+        "author": "Charlie",
+        "sentiment": -0.75
+    },
+    {
+        "timestamp": "2025-02-10T20:33:34.371824",
+        "message": "Machine learning is exciting!",
+        "author": "Alice",
+        "sentiment": 0.77
+    },
+    {
+        "timestamp": "2025-02-10T20:33:36.376151",
+        "message": "Machine learning is exciting!",
+        "author": "Charlie",
+        "sentiment": 0.58
+    },
+    {
+        "timestamp": "2025-02-10T20:33:38.382335",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Kersha",
+        "sentiment": 0.3
+    },
+    {
+        "timestamp": "2025-02-10T20:33:40.386018",
+        "message": "I love coding!",
+        "author": "Eve",
+        "sentiment": 0.01
+    },
+    {
+        "timestamp": "2025-02-10T20:33:42.394556",
+        "message": "Python makes data fun!",
+        "author": "Charlie",
+        "sentiment": -0.13
+    },
+    {
+        "timestamp": "2025-02-10T20:33:44.403975",
+        "message": "Machine learning is exciting!",
+        "author": "Kersha",
+        "sentiment": -0.89
+    },
+    {
+        "timestamp": "2025-02-10T20:33:46.407875",
+        "message": "I just saw a cool visualization!",
+        "author": "Eve",
+        "sentiment": 0.26
+    },
+    {
+        "timestamp": "2025-02-10T20:33:48.412845",
+        "message": "Machine learning is exciting!",
+        "author": "Eve",
+        "sentiment": 0.8
+    },
+    {
+        "timestamp": "2025-02-10T20:33:50.416163",
+        "message": "I just saw a cool visualization!",
+        "author": "Kersha",
+        "sentiment": -0.61
+    },
+    {
+        "timestamp": "2025-02-10T20:33:52.423450",
+        "message": "I just saw a cool visualization!",
+        "author": "Bob",
+        "sentiment": -0.22
+    },
+    {
+        "timestamp": "2025-02-10T20:33:54.430809",
+        "message": "Python makes data fun!",
+        "author": "Kersha",
+        "sentiment": 0.24
+    },
+    {
+        "timestamp": "2025-02-10T20:33:56.439783",
+        "message": "I love coding!",
+        "author": "Charlie",
+        "sentiment": 0.32
+    },
+    {
+        "timestamp": "2025-02-10T20:33:58.443191",
+        "message": "Machine learning is exciting!",
+        "author": "Eve",
+        "sentiment": -0.62
+    },
+    {
+        "timestamp": "2025-02-10T20:34:00.449585",
+        "message": "Python makes data fun!",
+        "author": "Eve",
+        "sentiment": 0.68
+    },
+    {
+        "timestamp": "2025-02-10T20:34:02.453009",
+        "message": "I just saw a cool visualization!",
+        "author": "Bob",
+        "sentiment": 0.64
+    },
+    {
+        "timestamp": "2025-02-10T20:34:04.461497",
+        "message": "I love coding!",
+        "author": "Bob",
+        "sentiment": 0.1
+    },
+    {
+        "timestamp": "2025-02-10T20:34:06.465173",
+        "message": "Machine learning is exciting!",
+        "author": "Charlie",
+        "sentiment": -0.97
+    },
+    {
+        "timestamp": "2025-02-10T20:34:08.468216",
+        "message": "Python makes data fun!",
+        "author": "Alice",
+        "sentiment": 0.76
+    },
+    {
+        "timestamp": "2025-02-10T20:34:10.472853",
+        "message": "Python makes data fun!",
+        "author": "Bob",
+        "sentiment": -0.76
+    },
+    {
+        "timestamp": "2025-02-10T20:34:12.478386",
+        "message": "Python makes data fun!",
+        "author": "Charlie",
+        "sentiment": 0.59
+    },
+    {
+        "timestamp": "2025-02-10T20:34:14.481447",
+        "message": "I just saw a cool visualization!",
+        "author": "Alice",
+        "sentiment": 0.8
+    },
+    {
+        "timestamp": "2025-02-10T20:34:16.485160",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Bob",
+        "sentiment": -0.49
+    },
+    {
+        "timestamp": "2025-02-10T20:34:18.490142",
+        "message": "I just saw a cool visualization!",
+        "author": "Bob",
+        "sentiment": 0.89
+    },
+    {
+        "timestamp": "2025-02-10T20:34:20.494101",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Charlie",
+        "sentiment": -0.0
+    },
+    {
+        "timestamp": "2025-02-10T20:34:22.498253",
+        "message": "I just saw a cool visualization!",
+        "author": "Kersha",
+        "sentiment": -0.01
+    },
+    {
+        "timestamp": "2025-02-10T20:34:24.504131",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Bob",
+        "sentiment": 0.08
+    },
+    {
+        "timestamp": "2025-02-10T20:34:26.513678",
+        "message": "I just saw a cool visualization!",
+        "author": "Charlie",
+        "sentiment": -0.57
+    },
+    {
+        "timestamp": "2025-02-10T20:34:28.521816",
+        "message": "Python makes data fun!",
+        "author": "Charlie",
+        "sentiment": 0.44
+    },
+    {
+        "timestamp": "2025-02-10T20:34:30.527411",
+        "message": "Python makes data fun!",
+        "author": "Bob",
+        "sentiment": -0.48
+    },
+    {
+        "timestamp": "2025-02-10T20:34:32.530499",
+        "message": "I just saw a cool visualization!",
+        "author": "Alice",
+        "sentiment": 0.88
+    },
+    {
+        "timestamp": "2025-02-10T20:34:34.533947",
+        "message": "Python makes data fun!",
+        "author": "Kersha",
+        "sentiment": 0.92
+    },
+    {
+        "timestamp": "2025-02-10T20:34:36.538378",
+        "message": "Machine learning is exciting!",
+        "author": "Bob",
+        "sentiment": -0.42
+    },
+    {
+        "timestamp": "2025-02-10T20:34:38.544097",
+        "message": "I just saw a cool visualization!",
+        "author": "Alice",
+        "sentiment": -0.97
+    },
+    {
+        "timestamp": "2025-02-10T20:34:40.548987",
+        "message": "I love coding!",
+        "author": "Bob",
+        "sentiment": 0.72
+    },
+    {
+        "timestamp": "2025-02-10T20:34:42.553388",
+        "message": "I just saw a cool visualization!",
+        "author": "Eve",
+        "sentiment": 0.4
+    },
+    {
+        "timestamp": "2025-02-10T20:34:44.559599",
+        "message": "Python makes data fun!",
+        "author": "Alice",
+        "sentiment": 0.84
+    },
+    {
+        "timestamp": "2025-02-10T20:34:46.566727",
+        "message": "I just saw a cool visualization!",
+        "author": "Bob",
+        "sentiment": 0.61
+    },
+    {
+        "timestamp": "2025-02-10T20:34:48.572789",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Kersha",
+        "sentiment": 0.43
+    },
+    {
+        "timestamp": "2025-02-10T20:34:50.580589",
+        "message": "Machine learning is exciting!",
+        "author": "Bob",
+        "sentiment": 0.15
+    },
+    {
+        "timestamp": "2025-02-10T20:34:52.587082",
+        "message": "Python makes data fun!",
+        "author": "Charlie",
+        "sentiment": -0.76
+    },
+    {
+        "timestamp": "2025-02-10T20:34:54.592241",
+        "message": "I just saw a cool visualization!",
+        "author": "Charlie",
+        "sentiment": -0.1
+    },
+    {
+        "timestamp": "2025-02-10T20:34:56.600064",
+        "message": "Python makes data fun!",
+        "author": "Alice",
+        "sentiment": -0.24
+    },
+    {
+        "timestamp": "2025-02-10T20:34:58.607023",
+        "message": "Python makes data fun!",
+        "author": "Eve",
+        "sentiment": 0.94
+    },
+    {
+        "timestamp": "2025-02-10T20:35:00.613179",
+        "message": "I just saw a cool visualization!",
+        "author": "Charlie",
+        "sentiment": 0.9
+    },
+    {
+        "timestamp": "2025-02-10T20:35:02.622396",
+        "message": "Python makes data fun!",
+        "author": "Alice",
+        "sentiment": -0.19
+    },
+    {
+        "timestamp": "2025-02-10T20:35:04.741430",
+        "message": "I just saw a cool visualization!",
+        "author": "Charlie",
+        "sentiment": -0.1
+    },
+    {
+        "timestamp": "2025-02-10T20:35:06.749441",
+        "message": "Machine learning is exciting!",
+        "author": "Eve",
+        "sentiment": 0.11
+    },
+    {
+        "timestamp": "2025-02-10T20:35:08.759464",
+        "message": "Python makes data fun!",
+        "author": "Alice",
+        "sentiment": -0.2
+    },
+    {
+        "timestamp": "2025-02-10T20:35:10.785203",
+        "message": "Machine learning is exciting!",
+        "author": "Eve",
+        "sentiment": -0.4
+    },
+    {
+        "timestamp": "2025-02-10T20:35:12.791774",
+        "message": "I just saw a cool visualization!",
+        "author": "Eve",
+        "sentiment": 0.35
+    },
+    {
+        "timestamp": "2025-02-10T20:35:14.799843",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Charlie",
+        "sentiment": -0.72
+    },
+    {
+        "timestamp": "2025-02-10T20:35:16.812670",
+        "message": "I love coding!",
+        "author": "Charlie",
+        "sentiment": 0.79
+    },
+    {
+        "timestamp": "2025-02-10T20:35:18.821071",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Alice",
+        "sentiment": 0.07
+    },
+    {
+        "timestamp": "2025-02-10T20:35:20.831547",
+        "message": "I just saw a cool visualization!",
+        "author": "Bob",
+        "sentiment": 0.95
+    },
+    {
+        "timestamp": "2025-02-10T20:35:22.840876",
+        "message": "I just saw a cool visualization!",
+        "author": "Eve",
+        "sentiment": -0.42
+    },
+    {
+        "timestamp": "2025-02-10T20:35:24.849273",
+        "message": "Machine learning is exciting!",
+        "author": "Bob",
+        "sentiment": 0.5
+    },
+    {
+        "timestamp": "2025-02-10T20:35:26.854843",
+        "message": "I love coding!",
+        "author": "Bob",
+        "sentiment": 0.13
+    },
+    {
+        "timestamp": "2025-02-10T20:35:28.858263",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Charlie",
+        "sentiment": -0.79
+    },
+    {
+        "timestamp": "2025-02-10T20:35:30.861471",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Charlie",
+        "sentiment": 0.4
+    },
+    {
+        "timestamp": "2025-02-10T20:35:32.870241",
+        "message": "I love coding!",
+        "author": "Kersha",
+        "sentiment": 0.21
+    },
+    {
+        "timestamp": "2025-02-10T20:35:34.877410",
+        "message": "Python makes data fun!",
+        "author": "Alice",
+        "sentiment": -0.25
+    },
+    {
+        "timestamp": "2025-02-10T20:35:36.880743",
+        "message": "I just saw a cool visualization!",
+        "author": "Eve",
+        "sentiment": 0.32
+    },
+    {
+        "timestamp": "2025-02-10T20:35:38.883811",
+        "message": "I love coding!",
+        "author": "Bob",
+        "sentiment": -0.57
+    },
+    {
+        "timestamp": "2025-02-10T20:35:40.887780",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Eve",
+        "sentiment": 0.95
+    },
+    {
+        "timestamp": "2025-02-10T20:35:42.893599",
+        "message": "Machine learning is exciting!",
+        "author": "Kersha",
+        "sentiment": 0.84
+    },
+    {
+        "timestamp": "2025-02-10T20:35:44.903433",
+        "message": "Machine learning is exciting!",
+        "author": "Bob",
+        "sentiment": 0.12
+    },
+    {
+        "timestamp": "2025-02-10T20:35:46.908511",
+        "message": "I love coding!",
+        "author": "Charlie",
+        "sentiment": 0.9
+    },
+    {
+        "timestamp": "2025-02-10T20:35:48.912186",
+        "message": "Machine learning is exciting!",
+        "author": "Kersha",
+        "sentiment": -0.91
+    },
+    {
+        "timestamp": "2025-02-10T20:35:50.918752",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Alice",
+        "sentiment": 0.68
+    },
+    {
+        "timestamp": "2025-02-10T20:35:52.930061",
+        "message": "Python makes data fun!",
+        "author": "Charlie",
+        "sentiment": -0.85
+    },
+    {
+        "timestamp": "2025-02-10T20:35:54.936561",
+        "message": "Python makes data fun!",
+        "author": "Alice",
+        "sentiment": -0.49
+    },
+    {
+        "timestamp": "2025-02-10T20:35:56.947454",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Bob",
+        "sentiment": -0.28
+    },
+    {
+        "timestamp": "2025-02-10T20:35:58.950088",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Charlie",
+        "sentiment": 0.62
+    },
+    {
+        "timestamp": "2025-02-10T20:36:00.955428",
+        "message": "Machine learning is exciting!",
+        "author": "Bob",
+        "sentiment": 0.51
+    },
+    {
+        "timestamp": "2025-02-10T20:36:02.960665",
+        "message": "Python makes data fun!",
+        "author": "Eve",
+        "sentiment": 0.42
+    },
+    {
+        "timestamp": "2025-02-10T20:36:04.966107",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Bob",
+        "sentiment": 0.12
+    },
+    {
+        "timestamp": "2025-02-10T20:36:06.969324",
+        "message": "I just saw a cool visualization!",
+        "author": "Alice",
+        "sentiment": 0.48
+    },
+    {
+        "timestamp": "2025-02-10T20:36:08.975185",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Alice",
+        "sentiment": -0.82
+    },
+    {
+        "timestamp": "2025-02-10T20:36:10.981913",
+        "message": "I just saw a cool visualization!",
+        "author": "Eve",
+        "sentiment": -0.1
+    },
+    {
+        "timestamp": "2025-02-10T20:36:12.986195",
+        "message": "Python makes data fun!",
+        "author": "Bob",
+        "sentiment": -0.04
+    },
+    {
+        "timestamp": "2025-02-10T20:36:14.990863",
+        "message": "I love coding!",
+        "author": "Alice",
+        "sentiment": 0.37
+    },
+    {
+        "timestamp": "2025-02-10T20:36:16.998229",
+        "message": "Python makes data fun!",
+        "author": "Charlie",
+        "sentiment": 0.77
+    },
+    {
+        "timestamp": "2025-02-10T20:36:19.005355",
+        "message": "Machine learning is exciting!",
+        "author": "Eve",
+        "sentiment": 0.01
+    },
+    {
+        "timestamp": "2025-02-10T20:36:21.014758",
+        "message": "I just saw a cool visualization!",
+        "author": "Alice",
+        "sentiment": 0.62
+    },
+    {
+        "timestamp": "2025-02-10T20:36:23.021581",
+        "message": "I just saw a cool visualization!",
+        "author": "Eve",
+        "sentiment": 0.48
+    },
+    {
+        "timestamp": "2025-02-10T20:36:25.028335",
+        "message": "Machine learning is exciting!",
+        "author": "Alice",
+        "sentiment": -0.03
+    },
+    {
+        "timestamp": "2025-02-10T20:36:27.033312",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Alice",
+        "sentiment": 0.87
+    },
+    {
+        "timestamp": "2025-02-10T20:36:29.038524",
+        "message": "Machine learning is exciting!",
+        "author": "Eve",
+        "sentiment": -0.1
+    },
+    {
+        "timestamp": "2025-02-10T20:36:31.042908",
+        "message": "Machine learning is exciting!",
+        "author": "Bob",
+        "sentiment": 0.35
+    },
+    {
+        "timestamp": "2025-02-10T20:36:33.046724",
+        "message": "I just saw a cool visualization!",
+        "author": "Charlie",
+        "sentiment": -0.97
+    },
+    {
+        "timestamp": "2025-02-10T20:36:35.050824",
+        "message": "Machine learning is exciting!",
+        "author": "Alice",
+        "sentiment": 0.14
+    },
+    {
+        "timestamp": "2025-02-10T20:36:37.057686",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Charlie",
+        "sentiment": 0.57
+    },
+    {
+        "timestamp": "2025-02-10T20:36:39.060550",
+        "message": "Machine learning is exciting!",
+        "author": "Kersha",
+        "sentiment": -0.05
+    },
+    {
+        "timestamp": "2025-02-10T20:36:41.063778",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Alice",
+        "sentiment": -0.48
+    },
+    {
+        "timestamp": "2025-02-10T20:36:43.067657",
+        "message": "I just saw a cool visualization!",
+        "author": "Eve",
+        "sentiment": -0.2
+    },
+    {
+        "timestamp": "2025-02-10T20:36:45.071080",
+        "message": "Python makes data fun!",
+        "author": "Alice",
+        "sentiment": 0.29
+    },
+    {
+        "timestamp": "2025-02-10T20:36:47.074629",
+        "message": "Machine learning is exciting!",
+        "author": "Bob",
+        "sentiment": 0.18
+    },
+    {
+        "timestamp": "2025-02-10T20:36:49.078574",
+        "message": "Python makes data fun!",
+        "author": "Kersha",
+        "sentiment": 0.85
+    },
+    {
+        "timestamp": "2025-02-10T20:36:51.083085",
+        "message": "Machine learning is exciting!",
+        "author": "Alice",
+        "sentiment": 0.52
+    },
+    {
+        "timestamp": "2025-02-10T20:36:53.088870",
+        "message": "I love coding!",
+        "author": "Bob",
+        "sentiment": -0.16
+    },
+    {
+        "timestamp": "2025-02-10T20:36:55.093233",
+        "message": "Python makes data fun!",
+        "author": "Kersha",
+        "sentiment": -0.71
+    },
+    {
+        "timestamp": "2025-02-10T20:36:57.097266",
+        "message": "I love coding!",
+        "author": "Bob",
+        "sentiment": 0.14
+    },
+    {
+        "timestamp": "2025-02-10T20:36:59.101723",
+        "message": "I just saw a cool visualization!",
+        "author": "Eve",
+        "sentiment": -0.64
+    },
+    {
+        "timestamp": "2025-02-10T20:37:01.107221",
+        "message": "Machine learning is exciting!",
+        "author": "Kersha",
+        "sentiment": -0.33
+    },
+    {
+        "timestamp": "2025-02-10T20:37:03.117082",
+        "message": "Machine learning is exciting!",
+        "author": "Bob",
+        "sentiment": -0.02
+    },
+    {
+        "timestamp": "2025-02-10T20:37:05.123600",
+        "message": "Machine learning is exciting!",
+        "author": "Bob",
+        "sentiment": -0.98
+    },
+    {
+        "timestamp": "2025-02-10T20:37:07.132678",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Eve",
+        "sentiment": 0.94
+    },
+    {
+        "timestamp": "2025-02-10T20:37:09.145168",
+        "message": "Machine learning is exciting!",
+        "author": "Alice",
+        "sentiment": -0.92
+    },
+    {
+        "timestamp": "2025-02-10T20:37:11.158700",
+        "message": "Machine learning is exciting!",
+        "author": "Kersha",
+        "sentiment": -0.76
+    },
+    {
+        "timestamp": "2025-02-10T20:37:13.164033",
+        "message": "Python makes data fun!",
+        "author": "Eve",
+        "sentiment": 0.73
+    },
+    {
+        "timestamp": "2025-02-10T20:37:15.168906",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Alice",
+        "sentiment": 0.24
+    },
+    {
+        "timestamp": "2025-02-10T20:37:17.172734",
+        "message": "Machine learning is exciting!",
+        "author": "Kersha",
+        "sentiment": -0.68
+    },
+    {
+        "timestamp": "2025-02-10T20:37:19.176560",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Kersha",
+        "sentiment": 0.67
+    },
+    {
+        "timestamp": "2025-02-10T20:37:21.180760",
+        "message": "Machine learning is exciting!",
+        "author": "Charlie",
+        "sentiment": 0.09
+    },
+    {
+        "timestamp": "2025-02-10T20:37:23.186991",
+        "message": "I love coding!",
+        "author": "Alice",
+        "sentiment": 0.2
+    },
+    {
+        "timestamp": "2025-02-10T20:37:25.195421",
+        "message": "I love coding!",
+        "author": "Eve",
+        "sentiment": -0.1
+    },
+    {
+        "timestamp": "2025-02-10T20:37:27.200324",
+        "message": "I just saw a cool visualization!",
+        "author": "Bob",
+        "sentiment": -0.47
+    },
+    {
+        "timestamp": "2025-02-10T20:37:29.213214",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Charlie",
+        "sentiment": -0.02
+    },
+    {
+        "timestamp": "2025-02-10T20:37:31.217192",
+        "message": "I just saw a cool visualization!",
+        "author": "Bob",
+        "sentiment": -0.8
+    },
+    {
+        "timestamp": "2025-02-10T20:37:33.225715",
+        "message": "I love coding!",
+        "author": "Charlie",
+        "sentiment": -0.93
+    },
+    {
+        "timestamp": "2025-02-10T20:37:35.230117",
+        "message": "I love coding!",
+        "author": "Bob",
+        "sentiment": -0.29
+    },
+    {
+        "timestamp": "2025-02-10T20:37:37.237343",
+        "message": "I just saw a cool visualization!",
+        "author": "Alice",
+        "sentiment": -0.91
+    },
+    {
+        "timestamp": "2025-02-10T20:37:39.240734",
+        "message": "I love coding!",
+        "author": "Alice",
+        "sentiment": 0.24
+    },
+    {
+        "timestamp": "2025-02-10T20:37:41.244747",
+        "message": "Python makes data fun!",
+        "author": "Charlie",
+        "sentiment": -0.99
+    },
+    {
+        "timestamp": "2025-02-10T20:37:43.254332",
+        "message": "Python makes data fun!",
+        "author": "Charlie",
+        "sentiment": 0.2
+    },
+    {
+        "timestamp": "2025-02-10T20:37:45.259035",
+        "message": "Python makes data fun!",
+        "author": "Charlie",
+        "sentiment": -0.93
+    },
+    {
+        "timestamp": "2025-02-10T20:37:47.268271",
+        "message": "Machine learning is exciting!",
+        "author": "Eve",
+        "sentiment": -0.1
+    },
+    {
+        "timestamp": "2025-02-10T20:37:49.277051",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Charlie",
+        "sentiment": -0.68
+    },
+    {
+        "timestamp": "2025-02-10T20:37:51.281540",
+        "message": "I just saw a cool visualization!",
+        "author": "Bob",
+        "sentiment": 0.17
+    },
+    {
+        "timestamp": "2025-02-10T20:37:53.290879",
+        "message": "Python makes data fun!",
+        "author": "Charlie",
+        "sentiment": -0.82
+    },
+    {
+        "timestamp": "2025-02-10T20:37:55.294914",
+        "message": "Python makes data fun!",
+        "author": "Eve",
+        "sentiment": 0.66
+    },
+    {
+        "timestamp": "2025-02-10T20:37:57.299107",
+        "message": "Python makes data fun!",
+        "author": "Kersha",
+        "sentiment": -0.0
+    },
+    {
+        "timestamp": "2025-02-10T20:37:59.309873",
+        "message": "I love coding!",
+        "author": "Kersha",
+        "sentiment": 0.49
+    },
+    {
+        "timestamp": "2025-02-10T20:38:01.313966",
+        "message": "I just saw a cool visualization!",
+        "author": "Charlie",
+        "sentiment": 0.19
+    },
+    {
+        "timestamp": "2025-02-10T20:38:03.320236",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Bob",
+        "sentiment": -0.11
+    },
+    {
+        "timestamp": "2025-02-10T20:38:05.326279",
+        "message": "I just saw a cool visualization!",
+        "author": "Eve",
+        "sentiment": 0.11
+    },
+    {
+        "timestamp": "2025-02-10T20:38:07.330724",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Eve",
+        "sentiment": 0.46
+    },
+    {
+        "timestamp": "2025-02-10T20:38:09.339426",
+        "message": "Python makes data fun!",
+        "author": "Eve",
+        "sentiment": 0.6
+    },
+    {
+        "timestamp": "2025-02-10T20:38:11.343530",
+        "message": "Python makes data fun!",
+        "author": "Charlie",
+        "sentiment": 0.2
+    },
+    {
+        "timestamp": "2025-02-10T20:38:13.353337",
+        "message": "Python makes data fun!",
+        "author": "Kersha",
+        "sentiment": -0.37
+    },
+    {
+        "timestamp": "2025-02-10T20:38:15.363759",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Kersha",
+        "sentiment": -0.25
+    },
+    {
+        "timestamp": "2025-02-10T20:38:17.382087",
+        "message": "I just saw a cool visualization!",
+        "author": "Kersha",
+        "sentiment": 0.24
+    },
+    {
+        "timestamp": "2025-02-10T20:38:19.391710",
+        "message": "Python makes data fun!",
+        "author": "Eve",
+        "sentiment": 0.76
+    },
+    {
+        "timestamp": "2025-02-10T20:38:21.401380",
+        "message": "Machine learning is exciting!",
+        "author": "Bob",
+        "sentiment": 0.38
+    },
+    {
+        "timestamp": "2025-02-10T20:38:23.404756",
+        "message": "Machine learning is exciting!",
+        "author": "Bob",
+        "sentiment": 0.58
+    },
+    {
+        "timestamp": "2025-02-10T20:38:25.418243",
+        "message": "Machine learning is exciting!",
+        "author": "Eve",
+        "sentiment": 0.76
+    },
+    {
+        "timestamp": "2025-02-10T20:38:27.428377",
+        "message": "I love coding!",
+        "author": "Bob",
+        "sentiment": -0.61
+    },
+    {
+        "timestamp": "2025-02-10T20:38:29.440531",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Eve",
+        "sentiment": 0.73
+    },
+    {
+        "timestamp": "2025-02-10T20:38:31.446503",
+        "message": "I love coding!",
+        "author": "Charlie",
+        "sentiment": 0.63
+    },
+    {
+        "timestamp": "2025-02-10T20:38:33.454676",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Eve",
+        "sentiment": -0.45
+    },
+    {
+        "timestamp": "2025-02-10T20:38:35.460257",
+        "message": "I just saw a cool visualization!",
+        "author": "Charlie",
+        "sentiment": 0.44
+    },
+    {
+        "timestamp": "2025-02-10T20:38:37.465702",
+        "message": "Machine learning is exciting!",
+        "author": "Kersha",
+        "sentiment": -0.69
+    },
+    {
+        "timestamp": "2025-02-10T20:38:39.480317",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Alice",
+        "sentiment": 0.6
+    },
+    {
+        "timestamp": "2025-02-10T20:38:41.496439",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Charlie",
+        "sentiment": -0.0
+    },
+    {
+        "timestamp": "2025-02-10T20:38:43.501516",
+        "message": "I love coding!",
+        "author": "Eve",
+        "sentiment": 0.53
+    },
+    {
+        "timestamp": "2025-02-10T20:38:45.517749",
+        "message": "Python makes data fun!",
+        "author": "Bob",
+        "sentiment": -0.76
+    },
+    {
+        "timestamp": "2025-02-10T20:38:47.533139",
+        "message": "Python makes data fun!",
+        "author": "Eve",
+        "sentiment": 0.48
+    },
+    {
+        "timestamp": "2025-02-10T20:38:49.545451",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Eve",
+        "sentiment": 0.14
+    },
+    {
+        "timestamp": "2025-02-10T20:38:51.560913",
+        "message": "I love coding!",
+        "author": "Bob",
+        "sentiment": -0.7
+    },
+    {
+        "timestamp": "2025-02-10T20:38:53.578187",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Alice",
+        "sentiment": 0.78
+    },
+    {
+        "timestamp": "2025-02-10T20:38:55.596059",
+        "message": "Python makes data fun!",
+        "author": "Eve",
+        "sentiment": 0.86
+    },
+    {
+        "timestamp": "2025-02-10T20:38:57.612887",
+        "message": "I just saw a cool visualization!",
+        "author": "Bob",
+        "sentiment": 0.36
+    },
+    {
+        "timestamp": "2025-02-10T20:38:59.626650",
+        "message": "I just saw a cool visualization!",
+        "author": "Eve",
+        "sentiment": -0.37
+    },
+    {
+        "timestamp": "2025-02-10T20:39:01.642064",
+        "message": "Machine learning is exciting!",
+        "author": "Bob",
+        "sentiment": 0.83
+    },
+    {
+        "timestamp": "2025-02-10T20:39:03.658916",
+        "message": "I just saw a cool visualization!",
+        "author": "Charlie",
+        "sentiment": 0.57
+    },
+    {
+        "timestamp": "2025-02-10T20:39:05.667453",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Charlie",
+        "sentiment": -0.49
+    },
+    {
+        "timestamp": "2025-02-10T20:39:07.690399",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Bob",
+        "sentiment": -0.92
+    },
+    {
+        "timestamp": "2025-02-10T20:39:09.702598",
+        "message": "I just saw a cool visualization!",
+        "author": "Alice",
+        "sentiment": 0.93
+    },
+    {
+        "timestamp": "2025-02-10T20:39:11.743174",
+        "message": "Machine learning is exciting!",
+        "author": "Bob",
+        "sentiment": -0.56
+    },
+    {
+        "timestamp": "2025-02-10T20:39:13.755665",
+        "message": "I love coding!",
+        "author": "Kersha",
+        "sentiment": 0.43
+    },
+    {
+        "timestamp": "2025-02-10T20:39:15.765742",
+        "message": "Machine learning is exciting!",
+        "author": "Alice",
+        "sentiment": -0.55
+    },
+    {
+        "timestamp": "2025-02-10T20:39:17.774750",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Eve",
+        "sentiment": 0.46
+    },
+    {
+        "timestamp": "2025-02-10T20:39:19.790363",
+        "message": "Machine learning is exciting!",
+        "author": "Kersha",
+        "sentiment": -0.34
+    },
+    {
+        "timestamp": "2025-02-10T20:39:21.802248",
+        "message": "I love coding!",
+        "author": "Charlie",
+        "sentiment": -0.24
+    },
+    {
+        "timestamp": "2025-02-10T20:39:23.811087",
+        "message": "Python makes data fun!",
+        "author": "Alice",
+        "sentiment": 1.0
+    },
+    {
+        "timestamp": "2025-02-10T20:39:25.851774",
+        "message": "I love coding!",
+        "author": "Bob",
+        "sentiment": 0.01
+    },
+    {
+        "timestamp": "2025-02-10T20:39:27.872579",
+        "message": "Python makes data fun!",
+        "author": "Eve",
+        "sentiment": 0.87
+    },
+    {
+        "timestamp": "2025-02-10T20:39:29.880761",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Alice",
+        "sentiment": -0.59
+    },
+    {
+        "timestamp": "2025-02-10T20:39:31.895556",
+        "message": "Python makes data fun!",
+        "author": "Kersha",
+        "sentiment": 0.97
+    },
+    {
+        "timestamp": "2025-02-10T20:39:33.912228",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Alice",
+        "sentiment": 0.98
+    },
+    {
+        "timestamp": "2025-02-10T20:39:35.923898",
+        "message": "Python makes data fun!",
+        "author": "Eve",
+        "sentiment": -0.65
+    },
+    {
+        "timestamp": "2025-02-10T20:39:37.939701",
+        "message": "Machine learning is exciting!",
+        "author": "Bob",
+        "sentiment": 0.14
+    },
+    {
+        "timestamp": "2025-02-10T20:39:39.951319",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Alice",
+        "sentiment": 0.95
+    },
+    {
+        "timestamp": "2025-02-10T20:39:41.961942",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Bob",
+        "sentiment": 0.55
+    },
+    {
+        "timestamp": "2025-02-10T20:39:43.971690",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Eve",
+        "sentiment": 0.03
+    },
+    {
+        "timestamp": "2025-02-10T20:39:45.987882",
+        "message": "I love coding!",
+        "author": "Kersha",
+        "sentiment": 0.45
+    },
+    {
+        "timestamp": "2025-02-10T20:39:48.002030",
+        "message": "I just saw a cool visualization!",
+        "author": "Bob",
+        "sentiment": -0.82
+    },
+    {
+        "timestamp": "2025-02-10T20:39:50.011306",
+        "message": "I just saw a cool visualization!",
+        "author": "Alice",
+        "sentiment": -0.13
+    },
+    {
+        "timestamp": "2025-02-10T20:39:52.064074",
+        "message": "I love coding!",
+        "author": "Charlie",
+        "sentiment": -0.68
+    },
+    {
+        "timestamp": "2025-02-10T20:39:54.087612",
+        "message": "I love coding!",
+        "author": "Eve",
+        "sentiment": -0.67
+    },
+    {
+        "timestamp": "2025-02-10T20:39:56.101257",
+        "message": "Machine learning is exciting!",
+        "author": "Charlie",
+        "sentiment": 0.22
+    },
+    {
+        "timestamp": "2025-02-10T20:39:58.109801",
+        "message": "Python makes data fun!",
+        "author": "Eve",
+        "sentiment": 0.51
+    },
+    {
+        "timestamp": "2025-02-10T20:40:00.123618",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Charlie",
+        "sentiment": 0.65
+    },
+    {
+        "timestamp": "2025-02-10T20:40:02.133139",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Eve",
+        "sentiment": -0.73
+    },
+    {
+        "timestamp": "2025-02-10T20:40:04.146835",
+        "message": "I just saw a cool visualization!",
+        "author": "Kersha",
+        "sentiment": -0.44
+    },
+    {
+        "timestamp": "2025-02-10T20:40:06.159662",
+        "message": "Python makes data fun!",
+        "author": "Charlie",
+        "sentiment": 0.89
+    },
+    {
+        "timestamp": "2025-02-10T20:40:08.171613",
+        "message": "I just saw a cool visualization!",
+        "author": "Alice",
+        "sentiment": -0.06
+    },
+    {
+        "timestamp": "2025-02-10T20:40:10.182314",
+        "message": "I just saw a cool visualization!",
+        "author": "Eve",
+        "sentiment": -0.16
+    },
+    {
+        "timestamp": "2025-02-10T20:40:12.192229",
+        "message": "Machine learning is exciting!",
+        "author": "Alice",
+        "sentiment": -0.85
+    },
+    {
+        "timestamp": "2025-02-10T20:40:14.207052",
+        "message": "Machine learning is exciting!",
+        "author": "Alice",
+        "sentiment": -0.94
+    },
+    {
+        "timestamp": "2025-02-10T20:40:16.226934",
+        "message": "I love coding!",
+        "author": "Eve",
+        "sentiment": -0.26
+    },
+    {
+        "timestamp": "2025-02-10T20:40:18.241213",
+        "message": "I just saw a cool visualization!",
+        "author": "Charlie",
+        "sentiment": 0.29
+    },
+    {
+        "timestamp": "2025-02-10T20:40:20.262109",
+        "message": "Machine learning is exciting!",
+        "author": "Eve",
+        "sentiment": 0.28
+    },
+    {
+        "timestamp": "2025-02-10T20:40:22.276506",
+        "message": "Machine learning is exciting!",
+        "author": "Bob",
+        "sentiment": 0.53
+    },
+    {
+        "timestamp": "2025-02-10T20:40:24.290134",
+        "message": "I just saw a cool visualization!",
+        "author": "Bob",
+        "sentiment": 0.43
+    },
+    {
+        "timestamp": "2025-02-10T20:40:26.302669",
+        "message": "Machine learning is exciting!",
+        "author": "Charlie",
+        "sentiment": 0.17
+    },
+    {
+        "timestamp": "2025-02-10T20:40:28.318996",
+        "message": "Machine learning is exciting!",
+        "author": "Alice",
+        "sentiment": 0.83
+    },
+    {
+        "timestamp": "2025-02-10T20:40:30.339455",
+        "message": "Python makes data fun!",
+        "author": "Bob",
+        "sentiment": -0.87
+    },
+    {
+        "timestamp": "2025-02-10T20:40:32.355415",
+        "message": "Python makes data fun!",
+        "author": "Bob",
+        "sentiment": 0.61
+    },
+    {
+        "timestamp": "2025-02-10T20:40:34.377031",
+        "message": "I just saw a cool visualization!",
+        "author": "Kersha",
+        "sentiment": -0.4
+    },
+    {
+        "timestamp": "2025-02-10T20:40:36.386429",
+        "message": "I just saw a cool visualization!",
+        "author": "Bob",
+        "sentiment": -0.59
+    },
+    {
+        "timestamp": "2025-02-10T20:40:38.402046",
+        "message": "I love coding!",
+        "author": "Bob",
+        "sentiment": 0.82
+    },
+    {
+        "timestamp": "2025-02-10T20:40:40.429146",
+        "message": "I love coding!",
+        "author": "Charlie",
+        "sentiment": -0.79
+    },
+    {
+        "timestamp": "2025-02-10T20:40:42.451445",
+        "message": "Python makes data fun!",
+        "author": "Eve",
+        "sentiment": -0.08
+    },
+    {
+        "timestamp": "2025-02-10T20:40:44.464881",
+        "message": "Python makes data fun!",
+        "author": "Bob",
+        "sentiment": 0.77
+    },
+    {
+        "timestamp": "2025-02-10T20:40:46.478647",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Alice",
+        "sentiment": 0.84
+    },
+    {
+        "timestamp": "2025-02-10T20:40:48.493472",
+        "message": "Python makes data fun!",
+        "author": "Eve",
+        "sentiment": 0.13
+    },
+    {
+        "timestamp": "2025-02-10T20:40:50.535104",
+        "message": "I love coding!",
+        "author": "Charlie",
+        "sentiment": 0.03
+    },
+    {
+        "timestamp": "2025-02-10T20:40:52.617687",
+        "message": "Python makes data fun!",
+        "author": "Kersha",
+        "sentiment": 1.0
+    },
+    {
+        "timestamp": "2025-02-10T20:40:54.854356",
+        "message": "Python makes data fun!",
+        "author": "Kersha",
+        "sentiment": 0.7
+    },
+    {
+        "timestamp": "2025-02-10T20:40:56.873419",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Alice",
+        "sentiment": 0.35
+    },
+    {
+        "timestamp": "2025-02-10T20:40:58.896871",
+        "message": "I love coding!",
+        "author": "Charlie",
+        "sentiment": 0.38
+    },
+    {
+        "timestamp": "2025-02-10T20:41:00.910362",
+        "message": "I love coding!",
+        "author": "Kersha",
+        "sentiment": -0.24
+    },
+    {
+        "timestamp": "2025-02-10T20:41:02.926456",
+        "message": "I love coding!",
+        "author": "Eve",
+        "sentiment": 0.62
+    },
+    {
+        "timestamp": "2025-02-10T20:41:04.934968",
+        "message": "I just saw a cool visualization!",
+        "author": "Bob",
+        "sentiment": 0.77
+    },
+    {
+        "timestamp": "2025-02-10T20:41:06.953083",
+        "message": "Python makes data fun!",
+        "author": "Eve",
+        "sentiment": -0.59
+    },
+    {
+        "timestamp": "2025-02-10T20:41:08.961309",
+        "message": "I love coding!",
+        "author": "Kersha",
+        "sentiment": -0.46
+    },
+    {
+        "timestamp": "2025-02-10T20:41:10.980450",
+        "message": "I love coding!",
+        "author": "Alice",
+        "sentiment": 0.62
+    },
+    {
+        "timestamp": "2025-02-10T20:41:12.994659",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Bob",
+        "sentiment": -0.84
+    },
+    {
+        "timestamp": "2025-02-10T20:41:15.015136",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Charlie",
+        "sentiment": -0.61
+    },
+    {
+        "timestamp": "2025-02-10T20:41:17.035071",
+        "message": "Machine learning is exciting!",
+        "author": "Eve",
+        "sentiment": -0.22
+    },
+    {
+        "timestamp": "2025-02-10T20:41:19.058369",
+        "message": "Python makes data fun!",
+        "author": "Eve",
+        "sentiment": -0.13
+    },
+    {
+        "timestamp": "2025-02-10T20:41:21.100110",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Kersha",
+        "sentiment": -0.29
+    },
+    {
+        "timestamp": "2025-02-10T20:41:23.112231",
+        "message": "Machine learning is exciting!",
+        "author": "Eve",
+        "sentiment": -0.51
+    },
+    {
+        "timestamp": "2025-02-10T20:41:25.130044",
+        "message": "I love coding!",
+        "author": "Charlie",
+        "sentiment": -0.82
+    },
+    {
+        "timestamp": "2025-02-10T20:41:27.220959",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Eve",
+        "sentiment": 0.84
+    },
+    {
+        "timestamp": "2025-02-10T20:41:29.230870",
+        "message": "I love coding!",
+        "author": "Eve",
+        "sentiment": -0.01
+    },
+    {
+        "timestamp": "2025-02-10T20:41:31.246038",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Kersha",
+        "sentiment": -0.08
+    },
+    {
+        "timestamp": "2025-02-10T20:41:33.273178",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Charlie",
+        "sentiment": -0.5
+    },
+    {
+        "timestamp": "2025-02-10T20:41:35.290817",
+        "message": "Machine learning is exciting!",
+        "author": "Eve",
+        "sentiment": -0.11
+    },
+    {
+        "timestamp": "2025-02-10T20:41:37.398043",
+        "message": "Python makes data fun!",
+        "author": "Alice",
+        "sentiment": 0.85
+    },
+    {
+        "timestamp": "2025-02-10T20:41:39.527100",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Bob",
+        "sentiment": -0.02
+    },
+    {
+        "timestamp": "2025-02-10T20:41:41.539626",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Kersha",
+        "sentiment": 0.58
+    },
+    {
+        "timestamp": "2025-02-10T20:41:43.551336",
+        "message": "Python makes data fun!",
+        "author": "Alice",
+        "sentiment": 0.66
+    },
+    {
+        "timestamp": "2025-02-10T20:41:45.562295",
+        "message": "Machine learning is exciting!",
+        "author": "Charlie",
+        "sentiment": -0.77
+    },
+    {
+        "timestamp": "2025-02-10T20:41:47.582807",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Kersha",
+        "sentiment": -0.81
+    },
+    {
+        "timestamp": "2025-02-10T20:41:49.599526",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Charlie",
+        "sentiment": 0.04
+    },
+    {
+        "timestamp": "2025-02-10T20:41:51.615702",
+        "message": "Python makes data fun!",
+        "author": "Bob",
+        "sentiment": -0.63
+    },
+    {
+        "timestamp": "2025-02-10T20:41:53.627521",
+        "message": "I love coding!",
+        "author": "Eve",
+        "sentiment": -0.82
+    },
+    {
+        "timestamp": "2025-02-10T20:41:55.662477",
+        "message": "I just saw a cool visualization!",
+        "author": "Kersha",
+        "sentiment": -0.49
+    },
+    {
+        "timestamp": "2025-02-10T20:41:57.678821",
+        "message": "Python makes data fun!",
+        "author": "Eve",
+        "sentiment": -0.85
+    },
+    {
+        "timestamp": "2025-02-10T20:41:59.698499",
+        "message": "Python makes data fun!",
+        "author": "Kersha",
+        "sentiment": -0.22
+    },
+    {
+        "timestamp": "2025-02-10T20:42:01.713465",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Bob",
+        "sentiment": 0.06
+    },
+    {
+        "timestamp": "2025-02-10T20:42:03.718648",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Kersha",
+        "sentiment": 0.07
+    },
+    {
+        "timestamp": "2025-02-10T20:42:05.727230",
+        "message": "Machine learning is exciting!",
+        "author": "Charlie",
+        "sentiment": 0.21
+    },
+    {
+        "timestamp": "2025-02-10T20:42:07.739160",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Eve",
+        "sentiment": -0.43
+    },
+    {
+        "timestamp": "2025-02-10T20:42:09.756735",
+        "message": "Machine learning is exciting!",
+        "author": "Kersha",
+        "sentiment": -0.74
+    },
+    {
+        "timestamp": "2025-02-10T20:42:11.767920",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Kersha",
+        "sentiment": -0.9
+    },
+    {
+        "timestamp": "2025-02-10T20:42:13.777318",
+        "message": "I love coding!",
+        "author": "Kersha",
+        "sentiment": -0.55
+    },
+    {
+        "timestamp": "2025-02-10T20:42:15.789878",
+        "message": "I just saw a cool visualization!",
+        "author": "Bob",
+        "sentiment": 0.02
+    },
+    {
+        "timestamp": "2025-02-10T20:42:17.795900",
+        "message": "Machine learning is exciting!",
+        "author": "Kersha",
+        "sentiment": -0.02
+    },
+    {
+        "timestamp": "2025-02-10T20:42:19.802459",
+        "message": "Python makes data fun!",
+        "author": "Eve",
+        "sentiment": -0.86
+    },
+    {
+        "timestamp": "2025-02-10T20:42:21.836559",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Alice",
+        "sentiment": -0.35
+    },
+    {
+        "timestamp": "2025-02-10T20:42:23.858263",
+        "message": "I love coding!",
+        "author": "Charlie",
+        "sentiment": -0.26
+    },
+    {
+        "timestamp": "2025-02-10T20:42:25.873198",
+        "message": "I love coding!",
+        "author": "Kersha",
+        "sentiment": 0.57
+    },
+    {
+        "timestamp": "2025-02-10T20:42:27.891629",
+        "message": "Python makes data fun!",
+        "author": "Charlie",
+        "sentiment": -0.23
+    },
+    {
+        "timestamp": "2025-02-10T20:42:29.932010",
+        "message": "I love coding!",
+        "author": "Alice",
+        "sentiment": -0.93
+    },
+    {
+        "timestamp": "2025-02-10T20:42:32.053322",
+        "message": "Machine learning is exciting!",
+        "author": "Eve",
+        "sentiment": 0.52
+    },
+    {
+        "timestamp": "2025-02-10T20:42:34.077202",
+        "message": "Machine learning is exciting!",
+        "author": "Kersha",
+        "sentiment": -0.51
+    },
+    {
+        "timestamp": "2025-02-10T20:42:36.090584",
+        "message": "I love coding!",
+        "author": "Alice",
+        "sentiment": 0.53
+    },
+    {
+        "timestamp": "2025-02-10T20:42:38.104322",
+        "message": "Machine learning is exciting!",
+        "author": "Charlie",
+        "sentiment": -0.21
+    },
+    {
+        "timestamp": "2025-02-10T20:42:40.113972",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Eve",
+        "sentiment": -0.95
+    },
+    {
+        "timestamp": "2025-02-10T20:42:42.120686",
+        "message": "I love coding!",
+        "author": "Charlie",
+        "sentiment": -0.07
+    },
+    {
+        "timestamp": "2025-02-10T20:42:44.128786",
+        "message": "Python makes data fun!",
+        "author": "Bob",
+        "sentiment": -0.78
+    },
+    {
+        "timestamp": "2025-02-10T20:42:46.138488",
+        "message": "I just saw a cool visualization!",
+        "author": "Alice",
+        "sentiment": -0.63
+    },
+    {
+        "timestamp": "2025-02-10T20:42:48.153022",
+        "message": "Python makes data fun!",
+        "author": "Charlie",
+        "sentiment": 0.78
+    },
+    {
+        "timestamp": "2025-02-10T20:42:50.174686",
+        "message": "I love coding!",
+        "author": "Eve",
+        "sentiment": 0.19
+    },
+    {
+        "timestamp": "2025-02-10T20:42:52.359192",
+        "message": "Machine learning is exciting!",
+        "author": "Kersha",
+        "sentiment": 0.36
+    },
+    {
+        "timestamp": "2025-02-10T20:42:54.365996",
+        "message": "Machine learning is exciting!",
+        "author": "Charlie",
+        "sentiment": 0.14
+    },
+    {
+        "timestamp": "2025-02-10T20:42:56.377611",
+        "message": "Python makes data fun!",
+        "author": "Charlie",
+        "sentiment": 0.47
+    },
+    {
+        "timestamp": "2025-02-10T20:42:58.392818",
+        "message": "Python makes data fun!",
+        "author": "Kersha",
+        "sentiment": 0.97
+    },
+    {
+        "timestamp": "2025-02-10T20:43:00.402772",
+        "message": "I just saw a cool visualization!",
+        "author": "Kersha",
+        "sentiment": 0.79
+    },
+    {
+        "timestamp": "2025-02-10T20:43:02.412240",
+        "message": "Python makes data fun!",
+        "author": "Charlie",
+        "sentiment": -0.18
+    },
+    {
+        "timestamp": "2025-02-10T20:43:04.420817",
+        "message": "Python makes data fun!",
+        "author": "Bob",
+        "sentiment": 0.24
+    },
+    {
+        "timestamp": "2025-02-10T20:43:06.432116",
+        "message": "I just saw a cool visualization!",
+        "author": "Alice",
+        "sentiment": -0.33
+    },
+    {
+        "timestamp": "2025-02-10T20:43:08.463314",
+        "message": "I just saw a cool visualization!",
+        "author": "Eve",
+        "sentiment": 0.32
+    },
+    {
+        "timestamp": "2025-02-10T20:43:10.482202",
+        "message": "I love coding!",
+        "author": "Alice",
+        "sentiment": -0.16
+    },
+    {
+        "timestamp": "2025-02-10T20:43:12.498728",
+        "message": "Machine learning is exciting!",
+        "author": "Kersha",
+        "sentiment": 0.11
+    },
+    {
+        "timestamp": "2025-02-10T20:43:14.515891",
+        "message": "Machine learning is exciting!",
+        "author": "Kersha",
+        "sentiment": 0.09
+    },
+    {
+        "timestamp": "2025-02-10T20:43:16.534368",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Kersha",
+        "sentiment": 0.79
+    },
+    {
+        "timestamp": "2025-02-10T20:43:18.546311",
+        "message": "I love coding!",
+        "author": "Alice",
+        "sentiment": -0.98
+    },
+    {
+        "timestamp": "2025-02-10T20:43:20.567955",
+        "message": "I just saw a cool visualization!",
+        "author": "Kersha",
+        "sentiment": 0.92
+    },
+    {
+        "timestamp": "2025-02-10T20:43:22.585259",
+        "message": "I love coding!",
+        "author": "Bob",
+        "sentiment": 0.44
+    },
+    {
+        "timestamp": "2025-02-10T20:43:24.595515",
+        "message": "I just saw a cool visualization!",
+        "author": "Kersha",
+        "sentiment": -0.23
+    },
+    {
+        "timestamp": "2025-02-10T20:43:26.608817",
+        "message": "Python makes data fun!",
+        "author": "Bob",
+        "sentiment": -0.4
+    },
+    {
+        "timestamp": "2025-02-10T20:43:28.627125",
+        "message": "Python makes data fun!",
+        "author": "Kersha",
+        "sentiment": -0.44
+    },
+    {
+        "timestamp": "2025-02-10T20:43:30.648457",
+        "message": "Machine learning is exciting!",
+        "author": "Charlie",
+        "sentiment": 0.09
+    },
+    {
+        "timestamp": "2025-02-10T20:43:32.661341",
+        "message": "I just saw a cool visualization!",
+        "author": "Eve",
+        "sentiment": -0.8
+    },
+    {
+        "timestamp": "2025-02-10T20:43:34.672229",
+        "message": "Machine learning is exciting!",
+        "author": "Eve",
+        "sentiment": 0.18
+    },
+    {
+        "timestamp": "2025-02-10T20:43:36.683685",
+        "message": "I love coding!",
+        "author": "Bob",
+        "sentiment": -0.93
+    },
+    {
+        "timestamp": "2025-02-10T20:43:38.702329",
+        "message": "Python makes data fun!",
+        "author": "Eve",
+        "sentiment": -0.29
+    },
+    {
+        "timestamp": "2025-02-10T20:43:40.726233",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Alice",
+        "sentiment": 0.02
+    },
+    {
+        "timestamp": "2025-02-10T20:43:42.746360",
+        "message": "Machine learning is exciting!",
+        "author": "Alice",
+        "sentiment": 0.01
+    },
+    {
+        "timestamp": "2025-02-10T20:43:44.765858",
+        "message": "I just saw a cool visualization!",
+        "author": "Charlie",
+        "sentiment": 0.61
+    },
+    {
+        "timestamp": "2025-02-10T20:43:46.782567",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Charlie",
+        "sentiment": 0.79
+    },
+    {
+        "timestamp": "2025-02-10T20:43:48.803968",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Alice",
+        "sentiment": 1.0
+    },
+    {
+        "timestamp": "2025-02-10T20:43:50.822733",
+        "message": "Machine learning is exciting!",
+        "author": "Charlie",
+        "sentiment": 0.53
+    },
+    {
+        "timestamp": "2025-02-10T20:43:52.835773",
+        "message": "I just saw a cool visualization!",
+        "author": "Kersha",
+        "sentiment": 0.49
+    },
+    {
+        "timestamp": "2025-02-10T20:43:54.849153",
+        "message": "Python makes data fun!",
+        "author": "Charlie",
+        "sentiment": 0.57
+    },
+    {
+        "timestamp": "2025-02-10T20:43:56.864607",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Bob",
+        "sentiment": -0.8
+    },
+    {
+        "timestamp": "2025-02-10T20:43:58.879788",
+        "message": "Python makes data fun!",
+        "author": "Eve",
+        "sentiment": 0.79
+    },
+    {
+        "timestamp": "2025-02-10T20:44:00.898345",
+        "message": "I love coding!",
+        "author": "Charlie",
+        "sentiment": 0.44
+    },
+    {
+        "timestamp": "2025-02-10T20:44:02.920622",
+        "message": "Machine learning is exciting!",
+        "author": "Eve",
+        "sentiment": 0.34
+    },
+    {
+        "timestamp": "2025-02-10T20:44:04.932198",
+        "message": "Machine learning is exciting!",
+        "author": "Kersha",
+        "sentiment": -0.13
+    },
+    {
+        "timestamp": "2025-02-10T20:44:06.955312",
+        "message": "I love coding!",
+        "author": "Eve",
+        "sentiment": -0.48
+    },
+    {
+        "timestamp": "2025-02-10T20:44:08.966043",
+        "message": "Python makes data fun!",
+        "author": "Charlie",
+        "sentiment": -0.09
+    },
+    {
+        "timestamp": "2025-02-10T20:44:10.976257",
+        "message": "I love coding!",
+        "author": "Alice",
+        "sentiment": -0.12
+    },
+    {
+        "timestamp": "2025-02-10T20:44:12.992646",
+        "message": "I just saw a cool visualization!",
+        "author": "Bob",
+        "sentiment": -0.72
+    },
+    {
+        "timestamp": "2025-02-10T20:44:15.004866",
+        "message": "I love coding!",
+        "author": "Kersha",
+        "sentiment": -0.72
+    },
+    {
+        "timestamp": "2025-02-10T20:44:17.024616",
+        "message": "Python makes data fun!",
+        "author": "Alice",
+        "sentiment": -0.68
+    },
+    {
+        "timestamp": "2025-02-10T20:44:19.043640",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Kersha",
+        "sentiment": -0.65
+    },
+    {
+        "timestamp": "2025-02-10T20:44:21.050534",
+        "message": "Machine learning is exciting!",
+        "author": "Kersha",
+        "sentiment": 0.38
+    },
+    {
+        "timestamp": "2025-02-10T20:44:23.060336",
+        "message": "Machine learning is exciting!",
+        "author": "Eve",
+        "sentiment": -0.72
+    },
+    {
+        "timestamp": "2025-02-10T20:44:25.070961",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Bob",
+        "sentiment": 0.39
+    },
+    {
+        "timestamp": "2025-02-10T20:44:27.084559",
+        "message": "Machine learning is exciting!",
+        "author": "Charlie",
+        "sentiment": -0.67
+    },
+    {
+        "timestamp": "2025-02-10T20:44:29.107065",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Alice",
+        "sentiment": -0.54
+    },
+    {
+        "timestamp": "2025-02-10T20:44:31.134065",
+        "message": "Machine learning is exciting!",
+        "author": "Kersha",
+        "sentiment": -0.92
+    },
+    {
+        "timestamp": "2025-02-10T20:44:33.150863",
+        "message": "I love coding!",
+        "author": "Eve",
+        "sentiment": 0.6
+    },
+    {
+        "timestamp": "2025-02-10T20:44:35.212085",
+        "message": "I just saw a cool visualization!",
+        "author": "Bob",
+        "sentiment": -0.3
+    },
+    {
+        "timestamp": "2025-02-10T20:44:37.234090",
+        "message": "I love coding!",
+        "author": "Charlie",
+        "sentiment": -0.74
+    },
+    {
+        "timestamp": "2025-02-10T20:44:39.273099",
+        "message": "I just saw a cool visualization!",
+        "author": "Bob",
+        "sentiment": 0.24
+    },
+    {
+        "timestamp": "2025-02-10T20:44:41.285957",
+        "message": "Machine learning is exciting!",
+        "author": "Alice",
+        "sentiment": 0.21
+    },
+    {
+        "timestamp": "2025-02-10T20:44:43.304211",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Eve",
+        "sentiment": -0.82
+    },
+    {
+        "timestamp": "2025-02-10T20:44:45.318315",
+        "message": "Python makes data fun!",
+        "author": "Alice",
+        "sentiment": -0.67
+    },
+    {
+        "timestamp": "2025-02-10T20:44:47.329749",
+        "message": "Python makes data fun!",
+        "author": "Alice",
+        "sentiment": -0.83
+    },
+    {
+        "timestamp": "2025-02-10T20:44:49.350253",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Alice",
+        "sentiment": 0.87
+    },
+    {
+        "timestamp": "2025-02-10T20:44:51.364320",
+        "message": "Python makes data fun!",
+        "author": "Eve",
+        "sentiment": -0.75
+    },
+    {
+        "timestamp": "2025-02-10T20:44:53.390777",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Kersha",
+        "sentiment": -0.28
+    },
+    {
+        "timestamp": "2025-02-10T20:44:55.398546",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Eve",
+        "sentiment": -0.63
+    },
+    {
+        "timestamp": "2025-02-10T20:44:57.412905",
+        "message": "I love coding!",
+        "author": "Kersha",
+        "sentiment": 0.4
+    },
+    {
+        "timestamp": "2025-02-10T20:44:59.426712",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Bob",
+        "sentiment": 0.32
+    },
+    {
+        "timestamp": "2025-02-10T20:45:01.437587",
+        "message": "I just saw a cool visualization!",
+        "author": "Bob",
+        "sentiment": 0.04
+    },
+    {
+        "timestamp": "2025-02-10T20:45:03.453178",
+        "message": "I just saw a cool visualization!",
+        "author": "Eve",
+        "sentiment": -0.67
+    },
+    {
+        "timestamp": "2025-02-10T20:45:05.461092",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Eve",
+        "sentiment": 0.59
+    },
+    {
+        "timestamp": "2025-02-10T20:45:07.471036",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Kersha",
+        "sentiment": -0.07
+    },
+    {
+        "timestamp": "2025-02-10T20:45:09.477650",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Eve",
+        "sentiment": -0.31
+    },
+    {
+        "timestamp": "2025-02-10T20:45:11.487517",
+        "message": "Python makes data fun!",
+        "author": "Eve",
+        "sentiment": 0.06
+    },
+    {
+        "timestamp": "2025-02-10T20:45:13.494535",
+        "message": "Python makes data fun!",
+        "author": "Charlie",
+        "sentiment": 0.69
+    },
+    {
+        "timestamp": "2025-02-10T20:45:15.506830",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Alice",
+        "sentiment": -0.5
+    },
+    {
+        "timestamp": "2025-02-10T20:45:17.516044",
+        "message": "Python makes data fun!",
+        "author": "Charlie",
+        "sentiment": -0.88
+    },
+    {
+        "timestamp": "2025-02-10T20:45:19.531554",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Charlie",
+        "sentiment": 0.8
+    },
+    {
+        "timestamp": "2025-02-10T20:45:21.547133",
+        "message": "I just saw a cool visualization!",
+        "author": "Eve",
+        "sentiment": -0.87
+    },
+    {
+        "timestamp": "2025-02-10T20:45:23.555162",
+        "message": "I love coding!",
+        "author": "Alice",
+        "sentiment": 0.58
+    },
+    {
+        "timestamp": "2025-02-10T20:45:25.571103",
+        "message": "Machine learning is exciting!",
+        "author": "Bob",
+        "sentiment": -0.63
+    },
+    {
+        "timestamp": "2025-02-10T20:45:27.583363",
+        "message": "I just saw a cool visualization!",
+        "author": "Charlie",
+        "sentiment": -0.06
+    },
+    {
+        "timestamp": "2025-02-10T20:45:29.593732",
+        "message": "I just saw a cool visualization!",
+        "author": "Alice",
+        "sentiment": -0.74
+    },
+    {
+        "timestamp": "2025-02-10T20:45:31.607729",
+        "message": "Machine learning is exciting!",
+        "author": "Charlie",
+        "sentiment": -0.95
+    },
+    {
+        "timestamp": "2025-02-10T20:45:33.629162",
+        "message": "I just saw a cool visualization!",
+        "author": "Alice",
+        "sentiment": 0.4
+    },
+    {
+        "timestamp": "2025-02-10T20:45:35.644591",
+        "message": "I just saw a cool visualization!",
+        "author": "Bob",
+        "sentiment": 0.51
+    },
+    {
+        "timestamp": "2025-02-10T20:45:37.655592",
+        "message": "Python makes data fun!",
+        "author": "Alice",
+        "sentiment": 0.86
+    },
+    {
+        "timestamp": "2025-02-10T20:45:39.687879",
+        "message": "I love coding!",
+        "author": "Kersha",
+        "sentiment": 0.57
+    },
+    {
+        "timestamp": "2025-02-10T20:45:41.709959",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Kersha",
+        "sentiment": -0.91
+    },
+    {
+        "timestamp": "2025-02-10T20:45:43.741871",
+        "message": "I love coding!",
+        "author": "Alice",
+        "sentiment": 0.23
+    },
+    {
+        "timestamp": "2025-02-10T20:45:45.801270",
+        "message": "Python makes data fun!",
+        "author": "Alice",
+        "sentiment": 0.99
+    },
+    {
+        "timestamp": "2025-02-10T20:45:47.821599",
+        "message": "I love coding!",
+        "author": "Bob",
+        "sentiment": 0.62
+    },
+    {
+        "timestamp": "2025-02-10T20:45:49.844952",
+        "message": "I just saw a cool visualization!",
+        "author": "Alice",
+        "sentiment": -0.72
+    },
+    {
+        "timestamp": "2025-02-10T20:45:51.867616",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Eve",
+        "sentiment": -0.63
+    },
+    {
+        "timestamp": "2025-02-10T20:45:53.899754",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Bob",
+        "sentiment": -0.19
+    },
+    {
+        "timestamp": "2025-02-10T20:45:55.918946",
+        "message": "Machine learning is exciting!",
+        "author": "Bob",
+        "sentiment": 0.1
+    },
+    {
+        "timestamp": "2025-02-10T20:45:57.940671",
+        "message": "I just saw a cool visualization!",
+        "author": "Kersha",
+        "sentiment": 0.71
+    },
+    {
+        "timestamp": "2025-02-10T20:45:59.963017",
+        "message": "Machine learning is exciting!",
+        "author": "Kersha",
+        "sentiment": 0.79
+    },
+    {
+        "timestamp": "2025-02-10T20:46:02.040700",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Eve",
+        "sentiment": -0.5
+    },
+    {
+        "timestamp": "2025-02-10T20:46:04.096957",
+        "message": "Machine learning is exciting!",
+        "author": "Charlie",
+        "sentiment": 0.95
+    },
+    {
+        "timestamp": "2025-02-10T20:46:06.114449",
+        "message": "I love coding!",
+        "author": "Bob",
+        "sentiment": -0.85
+    },
+    {
+        "timestamp": "2025-02-10T20:46:08.132201",
+        "message": "I just saw a cool visualization!",
+        "author": "Eve",
+        "sentiment": 0.87
+    },
+    {
+        "timestamp": "2025-02-10T20:46:10.148653",
+        "message": "Python makes data fun!",
+        "author": "Alice",
+        "sentiment": 0.42
+    },
+    {
+        "timestamp": "2025-02-10T20:46:12.168261",
+        "message": "I just saw a cool visualization!",
+        "author": "Alice",
+        "sentiment": -0.17
+    },
+    {
+        "timestamp": "2025-02-10T20:46:14.198289",
+        "message": "Python makes data fun!",
+        "author": "Kersha",
+        "sentiment": -0.44
+    },
+    {
+        "timestamp": "2025-02-10T20:46:16.223467",
+        "message": "Machine learning is exciting!",
+        "author": "Eve",
+        "sentiment": 0.45
+    },
+    {
+        "timestamp": "2025-02-10T20:46:18.250954",
+        "message": "Python makes data fun!",
+        "author": "Bob",
+        "sentiment": -0.66
+    },
+    {
+        "timestamp": "2025-02-10T20:46:20.284635",
+        "message": "Python makes data fun!",
+        "author": "Charlie",
+        "sentiment": -0.72
+    },
+    {
+        "timestamp": "2025-02-10T20:46:22.319787",
+        "message": "I just saw a cool visualization!",
+        "author": "Kersha",
+        "sentiment": -0.52
+    },
+    {
+        "timestamp": "2025-02-10T20:46:24.341465",
+        "message": "I just saw a cool visualization!",
+        "author": "Eve",
+        "sentiment": 0.75
+    },
+    {
+        "timestamp": "2025-02-10T20:46:26.351570",
+        "message": "I love coding!",
+        "author": "Kersha",
+        "sentiment": 0.48
+    },
+    {
+        "timestamp": "2025-02-10T20:46:28.375368",
+        "message": "Python makes data fun!",
+        "author": "Alice",
+        "sentiment": -0.55
+    },
+    {
+        "timestamp": "2025-02-10T20:46:30.391375",
+        "message": "Python makes data fun!",
+        "author": "Bob",
+        "sentiment": -0.56
+    },
+    {
+        "timestamp": "2025-02-10T20:46:32.404189",
+        "message": "I just saw a cool visualization!",
+        "author": "Kersha",
+        "sentiment": -0.46
+    },
+    {
+        "timestamp": "2025-02-10T20:46:34.420958",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Charlie",
+        "sentiment": -0.58
+    },
+    {
+        "timestamp": "2025-02-10T20:46:36.438013",
+        "message": "I just saw a cool visualization!",
+        "author": "Alice",
+        "sentiment": 0.09
+    },
+    {
+        "timestamp": "2025-02-10T20:46:38.456055",
+        "message": "I just saw a cool visualization!",
+        "author": "Bob",
+        "sentiment": -0.44
+    },
+    {
+        "timestamp": "2025-02-10T20:46:40.468474",
+        "message": "I love coding!",
+        "author": "Bob",
+        "sentiment": 0.9
+    },
+    {
+        "timestamp": "2025-02-10T20:46:42.486776",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Alice",
+        "sentiment": -0.17
+    },
+    {
+        "timestamp": "2025-02-10T20:46:44.501770",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Eve",
+        "sentiment": 0.58
+    },
+    {
+        "timestamp": "2025-02-10T20:46:46.513561",
+        "message": "Python makes data fun!",
+        "author": "Charlie",
+        "sentiment": 0.37
+    },
+    {
+        "timestamp": "2025-02-10T20:46:48.527379",
+        "message": "I love coding!",
+        "author": "Bob",
+        "sentiment": 0.5
+    },
+    {
+        "timestamp": "2025-02-10T20:46:50.543109",
+        "message": "I just saw a cool visualization!",
+        "author": "Charlie",
+        "sentiment": -0.65
+    },
+    {
+        "timestamp": "2025-02-10T20:46:52.550923",
+        "message": "I love coding!",
+        "author": "Alice",
+        "sentiment": 0.64
+    },
+    {
+        "timestamp": "2025-02-10T20:46:54.568493",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Kersha",
+        "sentiment": -0.61
+    },
+    {
+        "timestamp": "2025-02-10T20:46:56.585059",
+        "message": "Python makes data fun!",
+        "author": "Bob",
+        "sentiment": -0.39
+    },
+    {
+        "timestamp": "2025-02-10T20:46:58.602070",
+        "message": "I love coding!",
+        "author": "Alice",
+        "sentiment": -0.81
+    },
+    {
+        "timestamp": "2025-02-10T20:47:00.618094",
+        "message": "Machine learning is exciting!",
+        "author": "Alice",
+        "sentiment": -0.72
+    },
+    {
+        "timestamp": "2025-02-10T20:47:02.632125",
+        "message": "Machine learning is exciting!",
+        "author": "Bob",
+        "sentiment": 0.51
+    },
+    {
+        "timestamp": "2025-02-10T20:47:04.646367",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Charlie",
+        "sentiment": -0.59
+    },
+    {
+        "timestamp": "2025-02-10T20:47:06.658600",
+        "message": "Machine learning is exciting!",
+        "author": "Alice",
+        "sentiment": 0.58
+    },
+    {
+        "timestamp": "2025-02-10T20:47:08.674321",
+        "message": "I love coding!",
+        "author": "Kersha",
+        "sentiment": 0.47
+    },
+    {
+        "timestamp": "2025-02-10T20:47:10.698643",
+        "message": "I love coding!",
+        "author": "Charlie",
+        "sentiment": -0.68
+    },
+    {
+        "timestamp": "2025-02-10T20:47:12.714726",
+        "message": "I just saw a cool visualization!",
+        "author": "Bob",
+        "sentiment": 0.84
+    },
+    {
+        "timestamp": "2025-02-10T20:47:14.730022",
+        "message": "Machine learning is exciting!",
+        "author": "Bob",
+        "sentiment": 0.19
+    },
+    {
+        "timestamp": "2025-02-10T20:47:16.748656",
+        "message": "Machine learning is exciting!",
+        "author": "Alice",
+        "sentiment": 0.01
+    },
+    {
+        "timestamp": "2025-02-10T20:47:18.762942",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Kersha",
+        "sentiment": 0.47
+    },
+    {
+        "timestamp": "2025-02-10T20:47:20.782451",
+        "message": "Kafka is frustrating sometimes.",
+        "author": "Kersha",
+        "sentiment": -0.54
+    },
+    {
+        "timestamp": "2025-02-10T20:47:22.801750",
+        "message": "Machine learning is exciting!",
+        "author": "Bob",
+        "sentiment": 0.42
+    },
+    {
+        "timestamp": "2025-02-10T20:47:24.815247",
+        "message": "I love coding!",
+        "author": "Eve",
+        "sentiment": -0.22
+    },
+    {
+        "timestamp": "2025-02-10T20:47:26.829928",
+        "message": "Python makes data fun!",
+        "author": "Eve",
+        "sentiment": 0.28
+    },
+    {
+        "timestamp": "2025-02-10T20:47:28.842049",
+        "message": "Machine learning is exciting!",
+        "author": "Charlie",
+        "sentiment": 0.49
+    },
+    {
+        "timestamp": "2025-02-10T20:47:30.862015",
+        "message": "Machine learning is exciting!",
+        "author": "Kersha",
+        "sentiment": -0.65
+    },
+    {
+        "timestamp": "2025-02-10T20:47:32.875364",
+        "message": "I just saw a cool visualization!",
+        "author": "Alice",
+        "sentiment": 0.08
+    }
+]
